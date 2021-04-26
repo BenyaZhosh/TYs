@@ -42,7 +42,7 @@ ray_cast_limit_3d = 128
 trigger_overlap_capacity = 16
 
 [bootstrap]
-main_collection = /main/main.collectionc
+main_collection = /game/main/main.collectionc
 render = /render/custom.renderc
 
 [graphics]
